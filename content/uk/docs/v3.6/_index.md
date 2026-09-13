@@ -1,0 +1,13 @@
+---
+title: Документація v3.6
+cascade:
+  version: v3.6
+  versName: &name v3.6
+  git_version_tag: v3.6.0
+  exclude_search: false
+linkTitle: *name
+simple_list: true
+weight: -360 # Weight for doc version vX.Y should be -XY0
+---
+
+Документація охоплює всі аспекти: від налаштування і запуску кластера etcd до використання etcd у застосунках.

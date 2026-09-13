@@ -10,7 +10,7 @@
 
   {{ $vers := .Site.Params.latest_stable_version -}}
   {{ $versURI := printf "/%s/" $vers -}}
-  {{ $versPath := printf "/docs/%s/" $vers -}}
+  {{ $versPath := printf "%s/docs/%s/" .Site.LanguagePrefix $vers -}}
 
   {{ $targetFile := replace $thisFile $thisVersURI $versURI -}}
   {{ $targetURL := replace $thisURL $thisVersURI $versURI | relURL -}}
