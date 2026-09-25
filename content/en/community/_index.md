@@ -23,7 +23,7 @@ community_resources:
   - title: >
       [<i class="fas fa-file-alt"></i>Meeting docs][community-meeting-doc]
     desc: >
-      For meeting details, consult the [etcd community meeting][community-meeting-doc] and [robustness tests meeting][robustness-tests-meeting-doc] documents.
+      For meeting details, consult the [etcd community meeting][community-meeting-doc] and [robustness tests meeting][Robustness Meeting Notes] documents.
   - title: >
       [<i class="fab fa-youtube"></i>YouTube][etcd-youtube]
     desc: >
@@ -87,8 +87,8 @@ If you're new to etcd, this meeting is probably the place to start!  It's also w
 * *Notes*: [Triage Meeting Notes][]
 * *Zoom*: [SIG-etcd Zoom][online]
 
-Issue triage meetings alternate weeks with the Community Meeting.  They are aimed at getting 
-through our backlog of PRs and Issues. Triage meetings are open to any contributor; you 
+Issue triage meetings alternate weeks with the Community Meeting.  They are aimed at getting
+through our backlog of PRs and Issues. Triage meetings are open to any contributor; you
 don't have to be a reviewer or approver to help out! They can also be a good way to get
 started contributing.
 
@@ -153,7 +153,7 @@ For etcd contribution guidelines, see [How to contribute][].
 [Triage Meeting Notes]: https://docs.google.com/document/d/16XEGyPBisZvmmoIHSZzv__LoyOeluC5a4x353CX0SIM/edit?tab=t.xjc2zly8zbof#heading=h.eu3cetgrd3ii
 [Documentation Meeting Notes]: https://docs.google.com/document/d/16XEGyPBisZvmmoIHSZzv__LoyOeluC5a4x353CX0SIM/edit?tab=t.gksuxl4c139h
 [Robustness Meeting Notes]: https://docs.google.com/document/d/16XEGyPBisZvmmoIHSZzv__LoyOeluC5a4x353CX0SIM/edit?tab=t.v6ew634mcun0#heading=h.eu3cetgrd3ii
-[online]: https://zoom.us/j/99252206415 
+[online]: https://zoom.us/j/99252206415
 [Pacific Time]: https://www.timeanddate.com/time/zones/pt
 [GD]: https://github.com/etcd-io/etcd/discussions
 [Kubernetes Slack]: https://slack.k8s.io
